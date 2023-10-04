@@ -16,6 +16,7 @@
     "@testing-library/user-event": "^7.1.2",
     "classnames": "^2.2.6",
     "ios-inner-height": "^1.1.1",
+    "material-ui": "^0.20.2",
     "popmotion": "^8.7.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
