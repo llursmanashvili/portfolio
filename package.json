@@ -1,9 +1,9 @@
 {
   "name": "react-portfolio",
   "version": "0.1.0",
-  "homepage": "",
   "description": "A clean and customizable ReactJS portfolio template for fellow developers. Credits to Jo Lienhoop!",
   "repository": "https://github.com/llursmanashvili/portfolio",
+  "homepage": "https://llursmanashvili.github.io/portfolio",
   "author": "",
   "license": "MIT",
   "dependencies": {
